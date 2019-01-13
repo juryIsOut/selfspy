@@ -9,7 +9,7 @@ Due to Windows libs needing a external compiler to compile libs, some libs won't
 These are the sinners*:   
 `pyHook==1.5.1`   
 `pyCrypto==2.5 `   
-They are added too the windows-requirements.txt, but IF you fail to build these libs, here are the precompiled binaries. pyWin32 is needed for some library dependency, pip can't install pyWin32, so please use the binary below.      
+They are added to the windows-requirements.txt, but IF you fail to build these libs, here are the precompiled binaries. pyWin32 is needed for some library dependency, pip can't install pyWin32, so please use the binary below.      
 pyHook: http://sourceforge.net/projects/pyhook/files/pyhook/   
 pyCrytpo: http://www.voidspace.org.uk/python/modules.shtml#pycrypto   
 pyWin32: http://sourceforge.net/projects/pywin32/files/pywin32/  
